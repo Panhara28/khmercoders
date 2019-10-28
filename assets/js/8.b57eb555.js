@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{318:function(n,o,t){"use strict";t.r(o);var e={name:"Content",props:{content:""},data:function(){},computed:{}},p=t(43),u=Object(p.a)(e,void 0,void 0,!1,null,null,null);u.options.__file="Content.vue";o.default=u.exports}}]);
